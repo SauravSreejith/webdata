@@ -1,6 +1,6 @@
 ---
 title: "Got selected for GSoC21"
-cover: "https://www.embecosm.com/app/uploads/gsoc.png"
+cover: "https://summerofcode.withgoogle.com/assets/media/logo.svg"
 ---
 
 ![](https://raw.githubusercontent.com/stacsnssce/webassets/master/awards/gsoc21.jpg)
