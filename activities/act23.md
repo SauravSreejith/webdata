@@ -19,7 +19,6 @@ The inauguration set a vibrant and promising tone for the fest, paving the way f
 ![list-of-events](https://github.com/user-attachments/assets/4747c338-27a2-47f6-bf4a-012729ad2e95)
 
 
-## <h1 align="center"><u>EVENTS : DAY 1</u></h1>
 ## CLUE CHRONICLES
 ![clueChronicles](https://github.com/user-attachments/assets/9234032b-8b33-484c-bebd-1879c9c61da3)
 
@@ -52,7 +51,6 @@ Every submission reflected a unique perspective, highlighting the individuality 
 **Servercraft: Journey into Administration Mastery**, a workshop jointly organized by **STACS** and the **FOSS Cell NSSCE**, offered an invaluable platform for students eager to delve into the world of system administration. Designed as an enriching learning experience, the workshop immersed participants in interactive sessions, hands-on demonstrations, and practical exercises that deepened their understanding of server management concepts.
 
 Guided by experienced facilitators, the 32 participants received expert insights, mentorship, and real-world guidance throughout the program. The workshop fostered a highly engaging environment, where students were encouraged to ask questions, share their experiences, and collaborate actively. This vibrant atmosphere of learning and community truly captured the spirit of **Servercraft**, leaving participants better equipped and inspired to continue their journey in system administration.
-## <h1 align="center"><u>EVENTS : DAY 2</u></h1>
 
 ## BLOGGING BONANZA
 
@@ -116,7 +114,6 @@ The challenge not only demanded strategic navigation but also highlighted the fa
 
 The Wikipedia Chase Challenge was a resounding success, sparking excitement and engagement among all attendees and showcasing the power of curiosity-driven exploration.
 
-## <h1 align="center"><u>EVENTS : DAY 3</u></h1>
 ## COOK IN 2 MINUTES
 
 ![cook-in-two-minutes](https://github.com/user-attachments/assets/f4468c29-305d-48d3-a34e-c78f1b92a006)
